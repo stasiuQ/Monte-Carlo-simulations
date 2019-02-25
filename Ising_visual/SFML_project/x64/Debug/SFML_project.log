@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (SFML_project.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+c:\users\stasiu\source\repos\sfml_project\sfml_project\main.cpp(56): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\stasiu\source\repos\sfml_project\sfml_project\main.cpp(75): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  SFML_project.vcxproj -> C:\Users\Stasiu\source\repos\SFML_project\x64\Debug\Ising_animation.exe
